@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Build an API for a simple wallet to learn the basics of CRUD, MSC and a little glimpse into SOLID concempts.
+API for a simple wallet with the basics of CRUD, MSC and a little glimpse into SOLID concempts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
