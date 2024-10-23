@@ -1,6 +1,3 @@
-# DIO Wallet
-
-Implementação dos métodos CRUD para criação de uma API de uma carteira digital, utilizando Node.js, Express e MongoDB.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -8,6 +5,7 @@ Implementação dos métodos CRUD para criação de uma API de uma carteira digi
 
   <p align="center">
     API for a simple wallet
+    <br />
     <br />
     <a href="https://github.com/ivqueiroga/wallet_DIO_backend"><strong>Explore the docs »</strong></a>
     <br />
@@ -45,9 +43,9 @@ Build an API for a simple wallet to learn the basics of CRUD, MSC and a little g
 
 ### Built With
 
-* [![node][node.js]][node-url]
-* [![MongoDb][MongoDb]][MongoDb-url]
-* [![Express][Express]][Express-url]
+[![node][node.js]][node-url]
+[![MongoDb][MongoDb]][MongoDb-url]
+[![Express][Express]][Express-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -56,7 +54,7 @@ Build an API for a simple wallet to learn the basics of CRUD, MSC and a little g
 <!-- LICENSE -->
 ## License
 
-Distributed under the Mozilla License. See [`LICENSE`][license-url] for more information.
+Distributed under the MPL 2.0. See [`LICENSE`][license-url] for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
