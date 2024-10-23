@@ -11,7 +11,19 @@ async function findAllByUser(id) {
   return await transactionRepository.findAllByUser(id);
 }
 
+async function updateTransactionById(body, id) {
+  if(!id) throw new Error("Transaction is required");
+  return await transactionRepository.updateTransactionById(body, id);
+}
+
+async function deleteTransactionById(id) {
+  if(!id) throw new Error("Transaction is required");
+  return await transactionRepository.deleteTransactionById(id);
+}
+
 export default {
   create,
   findAllByUser,
+  updateTransactionById,
+  deleteTransactionById
 }
